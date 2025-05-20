@@ -17,6 +17,6 @@ Currently, I'm exploring **JavaScript**, **Python**, and the world of **Fullstac
 
 <div align="right">
 
-<sub>created by copilot</sub>
+<sub>created with 💕 by me and copilot😜</sub>
 
 </div>
